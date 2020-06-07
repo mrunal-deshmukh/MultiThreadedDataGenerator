@@ -15,5 +15,5 @@
 
 ```
 
-##Sample Output
+## Sample Output
 <a href="https://ibb.co/CVBdDZW"><img src="https://i.ibb.co/ssjSzGt/10-GB-in19-Minutes.png" alt="10-GB-in19-Minutes" border="0"></a>
